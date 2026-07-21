@@ -1,0 +1,1 @@
+python inference_sdxl.py --unet_path="kumo24/sdxl_nuclear" --prompt_path='metadata.csv' --seed=42 --inference_path='inf/' --device='cuda:0'
